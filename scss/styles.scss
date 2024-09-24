@@ -1,0 +1,71 @@
+h1{
+    color:red;
+    font-size: 40px;
+}
+div{
+    background-color: blue;
+    height: 600px;
+    h2{
+        color: red;
+        font-size: 30px;
+        text-align: center;
+    }
+    p{
+        color: greenyellow;
+        font-size: 15px;
+    }
+}
+.parrafos{
+    color: red;
+    h2{
+        color: blue;
+    
+    }
+}
+.parrafos2{
+    color: blue;
+    h2{
+        color: chocolate;
+    }
+}
+
+h3{
+    color: green;
+}
+
+.btn{
+    height: 100px;
+    width: 150px;
+    border: 0px;
+    &__texto{
+        font-size: 20px;
+    }
+    &__icono{
+        font-size: 20px;
+        &--rojo{
+            color: red;
+        }
+        &--azul{
+            color: blue;
+        }
+        &--amarillo{
+            color: yellow;
+        }
+        &--verde{
+            color: green;
+        }
+        
+    }
+    &--rojo{
+        background-color: red;
+    }
+    &--azul{
+        background-color: blue;
+    }
+    &--amarillo{
+        background-color: yellow;
+    }
+    &--verde{
+        background-color: green;
+    }
+}

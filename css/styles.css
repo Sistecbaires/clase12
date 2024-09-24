@@ -1,0 +1,74 @@
+h1 {
+  color: red;
+  font-size: 40px;
+}
+
+div {
+  background-color: blue;
+  height: 600px;
+}
+div h2 {
+  color: red;
+  font-size: 30px;
+  text-align: center;
+}
+div p {
+  color: greenyellow;
+  font-size: 15px;
+}
+
+.parrafos {
+  color: red;
+}
+.parrafos h2 {
+  color: blue;
+}
+
+.parrafos2 {
+  color: blue;
+}
+.parrafos2 h2 {
+  color: chocolate;
+}
+
+h3 {
+  color: green;
+}
+
+.btn {
+  height: 100px;
+  width: 150px;
+  border: 0px;
+}
+.btn__texto {
+  font-size: 20px;
+}
+.btn__icono {
+  font-size: 20px;
+}
+.btn__icono--rojo {
+  color: red;
+}
+.btn__icono--azul {
+  color: blue;
+}
+.btn__icono--amarillo {
+  color: yellow;
+}
+.btn__icono--verde {
+  color: green;
+}
+.btn--rojo {
+  background-color: red;
+}
+.btn--azul {
+  background-color: blue;
+}
+.btn--amarillo {
+  background-color: yellow;
+}
+.btn--verde {
+  background-color: green;
+}
+
+/*# sourceMappingURL=styles.css.map */
